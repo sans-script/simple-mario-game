@@ -1,5 +1,5 @@
 # Simple Super Mario Game
-
+- [Link to website](https://sans-script.github.io/simple-mario-game/)
 A simple Super Mario game created using HTML, CSS, and JavaScript.
 
 Nintendo might be able to sue you for this lol.
