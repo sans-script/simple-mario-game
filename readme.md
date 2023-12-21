@@ -2,7 +2,7 @@
 
 A simple Super Mario game created using HTML, CSS, and JavaScript.
 
-Nintendo might be able to sue you for this.
+Nintendo might be able to sue you for this lol.
 
 ## Table of Contents
 
