@@ -1,5 +1,5 @@
 # Simple Super Mario Game
-- [Link to website](https://sans-script.github.io/simple-mario-game/)
+### [Link to website](https://sans-script.github.io/simple-mario-game/)
   
 A simple Super Mario game created using HTML, CSS, and JavaScript.
 
